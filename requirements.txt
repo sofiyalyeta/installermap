@@ -5,3 +5,4 @@ streamlit_folium==0.25.0
 requests==2.32.4
 geopy==2.4.1
 altair==5.5.0
+openpyxl==3.1.5
