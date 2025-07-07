@@ -1,0 +1,38 @@
+/* style.css */
+body {
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: #ffffff;
+    border-bottom: 2px solid #ececec;
+}
+
+header img {
+    max-height: 100px; /* Allow the image to resize up to 100px in height */
+    margin-right: 50px;
+}
+
+header h1 {
+    font-size: 24px;
+    color: #004080;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    background-color: #ffffff;
+    border-top: 2px solid #ececec;
+}
+
+footer p {
+    font-size: 14px;
+    color: #666666;
+}
